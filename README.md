@@ -1,2 +1,2 @@
 # DSRKeyGenerator (Discord, Steam, Roblox Key Generator)
-simple program that generate random discord nitro activation keys, steam game keys and roblox' robux keys.
+A simple program that generates random Discord Nitro activation keys, Steam game keys, and Roblox Robux keys.
